@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans";
+}
+body{
+    background: url("/images/person-using-laptop.jpg");
+}
+#h1 {
+  text-align: center;
+}
+#h2 {
+  text-align: center;
+  display: inline-block;
+}
+#frontend {
+  font-size: 20px;
+  font-family: Poppins, Sans-serif;
+  text-align: center;
+  background-color: white;
+  border: solid 2px;
+  border-color: #005a9c;
+  border-radius: 50px;
+  margin-inline: 250px;
+  padding-block: 40px;
+}
+#databases {
+  font-size: 20px;
+  font-family: Poppins, Sans-serif;
+  text-align: center;
+  background-color: white;
+  border: solid 2px;
+  border-color: #005a9c;
+  border-radius: 50px;
+  margin-inline: 250px;
+  padding-block: 40px;
+}
+#apis {
+  font-size: 20px;
+  font-family: Poppins, Sans-serif;
+  text-align: center;
+  background-color: white;
+  border: solid 2px;
+  border-color: #005a9c;
+  border-radius: 50px;
+  margin-inline: 250px;
+  padding-block: 40px;
+}
+#versioncontrol {
+  font-size: 20px;
+  font-family: Poppins, Sans-serif;
+  text-align: center;
+  background-color: white;
+  border: solid 2px;
+  border-color: #005a9c;
+  border-radius: 50px;
+  margin-inline: 250px;
+  padding-block: 40px;
+}
+#webservers {
+  font-size: 20px;
+  font-family: Poppins, Sans-serif;
+  text-align: center;
+  background-color: white;
+  border: solid 2px;
+  border-color: #005a9c;
+  border-radius: 50px;
+  margin-inline: 250px;
+  padding-block: 40px;
+}
+#developmentenvironments {
+  font-size: 20px;
+  font-family: Poppins, Sans-serif;
+  text-align: center;
+  background-color: white;
+  border: solid 2px;
+  border-color: #005a9c;
+  border-radius: 50px;
+  margin-inline: 250px;
+  padding-block: 40px;
+}
+#testinganddebugging {
+  font-size: 20px;
+  font-family: Poppins, Sans-serif;
+  text-align: center;
+  background-color: white;
+  border: solid 2px;
+  border-color: #005a9c;
+  border-radius: 50px;
+  margin-inline: 250px;
+  padding-block: 40px;
+}
+#securitybestpractices {
+  font-size: 20px;
+  font-family: Poppins, Sans-serif;
+  text-align: center;
+  background-color: white;
+  border: solid 2px;
+  border-color: #005a9c;
+  border-radius: 50px;
+  margin-inline: 250px;
+  padding-block: 40px;
+}
+#securitybestpractices {
+  font-size: 20px;
+  font-family: Poppins, Sans-serif;
+  text-align: center;
+  background-color: white;
+  border: solid 2px;
+  border-color: #005a9c;
+  border-radius: 50px;
+  margin-inline: 250px;
+  padding-block: 40px;
+}
+#collaboration {
+  font-size: 20px;
+  font-family: Poppins, Sans-serif;
+  text-align: center;
+  background-color: white;
+  border: solid 2px;
+  border-color: #005a9c;
+  border-radius: 50px;
+  margin-inline: 250px;
+  padding-block: 40px;
+}
+body {
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  height: 100vh;
+}
+#center-container {
+    display: inline-flex;
+    align-items: center;
+    font-size: 28px;
+    color: #ffffff;
+    background-color: royalblue;
+    padding: 30px 60px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    font-family: Poppins, Sans-serif;
+}
+
+#center-container:hover {
+    background-color: black ;
+}
+*body{
+  background: url("fiverproject/images/homeorlogin2.jpg");
